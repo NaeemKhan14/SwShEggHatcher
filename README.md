@@ -45,7 +45,8 @@ Click load Hex File, select Joystick.hex and press run
 
 In the game, fly to the daycare in the wild area. 
 
-Make sure your party is full, and the town map is in the bottom right corner of your menu
+Make sure your party is full, and the town map is in the bottom right corner of your menu. And make sure you are not riding the bicycle before connecting the arduino to the console. Also make sure that in the settings menu, you have set "Send to Boxes" option to "Manual".
+
 
 After that you should be able to plug it into the switch and watch it go!
 
